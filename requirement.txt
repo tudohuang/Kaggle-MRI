@@ -1,0 +1,7 @@
+imageio
+Pillow
+numpy
+torch
+torchvision
+albumentations
+tqdm
