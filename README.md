@@ -55,7 +55,7 @@ Your contributions, big or small, make a significant impact on the project and a
 
 
 ## License
-!MIT(https://github.com/tudohuang/Kaggle-MRI/blob/main/LICENSE.txt)
+[MIT](https://github.com/tudohuang/Kaggle-MRI/blob/main/LICENSE.txt)
 
 ## Acknowledgements
 
