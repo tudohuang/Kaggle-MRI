@@ -21,11 +21,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Describe how to use the project, including how to train the model, evaluate it, and make predictions. For example:
-
-1. To train the model: `python train.py --data_path [path to data]`
-2. To evaluate the model: `python evaluate.py --model_path [path to saved model]`
-3. To make predictions: `python predict.py --model_path [path to saved model] --test_data [path to test data]`
+After the command, be sure to change the directory of the training file, model file and test dataset.
+If you don't want that trouble, just use google colab!
+Remember to share with the dataset first!
 
 ## ResNet CNN Architecture
 Provide a brief overview of the ResNet architecture and why it's suitable for this competition. Mention the specific ResNet variant used (e.g., ResNet-50, ResNet-101) and any modifications made to fit the competition's needs.
@@ -227,7 +225,7 @@ Thank you for your interest in contributing to this project! Here's how you can 
 Your contributions, big or small, make a significant impact on the project and are greatly appreciated!
 
 
-`
+
 
 
 
