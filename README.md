@@ -237,7 +237,3 @@ Your contributions, big or small, make a significant impact on the project and a
 ## Acknowledgements
 
 The competition was held by ICZZ 
-
----
-
-Feel free to modify and expand upon this template to suit the specifics of your project and the competition.
