@@ -16,7 +16,7 @@ To run this project, follow these steps or... using the colab!
 ### Installation
 ```
 git clone https://github.com/tudohuang/Kaggle-MRI.git
-cd Kaggle-code
+cd Kaggle-MRI
 pip install -r requirements.txt
 ```
 
