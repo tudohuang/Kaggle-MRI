@@ -8,6 +8,7 @@ To run this project, follow these steps or... using the colab!
 
 <a href="https://colab.research.google.com/drive/1CX4BAxrpIyYL_DyVtfsD_dN22VaM4r0j?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+<a href="https://huggingface.co/spaces/Tudohuang/Tumor-classify-system" target="_blank"><img src="https://seekvectorlogo.net/wp-content/uploads/2023/03/hugging-face-vector-logo.png" alt="Open In Hugging face"></a>
 [Training File](https://drive.google.com/file/d/1VPh_uk6eFgqQEhdNrxGKmq2rh0Z56duL/view?usp=sharing)
 ### Prerequisites
 - Python 3.x
